@@ -1,0 +1,114 @@
+/* 
+    Created on : Mar 7, 2024, 4:17:02 PM
+    Author     : ADMIN
+*/
+
+body {
+    background: #222D32;
+    font-family: 'Roboto', sans-serif;
+}
+
+.shopping-box {
+    margin-top: 75px;
+    height: auto;
+    background: #1A2226;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.shopping-title {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #ECF0F5
+}
+
+.select-form {
+    margin-top: 25px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    color: #1A2226;
+}
+
+.select-form select {
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    padding: .5rem 2.25rem .5rem 1rem;
+    line-height: 1.5;
+    color: #555;
+    background-color: #1A2226;
+    border: 0;
+    border: 1px solid #0DB8DE;
+    border-radius: .25rem;
+    cursor: pointer;
+    outline: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.shopping-text {
+    text-align: left;
+    padding-left: 0px;
+    color: #A2A4A4;
+}
+
+.shoppingbttm {
+    padding: 0px;
+}
+.btn-outline-primary {
+    border-color: #0DB8DE;
+    color: #0DB8DE;
+    border-radius: 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.btn-outline-primary:hover {
+    background-color: #0DB8DE;
+    right: 0px;
+    color:#ECF0F5;
+}
+
+.btn-outline-primary a {
+    text-decoration: none;
+    color:#0DB8DE;
+    cursor: default;
+}
+
+.btn-outline-primary:hover a {
+    text-decoration: none;
+    color:#ECF0F5;
+}
+
+.shopping-btm {
+    float: left;
+}
+
+.shopping-button {
+    padding-right: 0px;
+    text-align: right;
+    margin-bottom: 25px;
+}
+
+.select-group {
+    margin-bottom: 40px;
+    outline: 0px;
+}
+
+.aref{
+    position: relative;
+    margin-top: -114.5px;
+    margin-left: 142px;
+}
+
+.logout{
+    margin-top: -10px;
+}
+
